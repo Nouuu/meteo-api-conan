@@ -1,0 +1,6 @@
+[requires]
+libcurl/7.75.0
+json-c/0.15
+
+[generators]
+cmake
